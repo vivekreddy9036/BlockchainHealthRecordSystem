@@ -1,4 +1,4 @@
-#MedSecureChain: Health Record Management on Hyperledger Fabric
+MedSecureChain: Health Record Management on Hyperledger Fabric
 Overview
 
 MedSecureChain is a decentralized health record management system built on Hyperledger Fabric. It allows for secure and transparent management of health data, including granting and revoking access to healthcare providers, storing audit logs, and ensuring privacy through encryption. This chaincode implementation ensures that patient data is managed efficiently with the option for patients to control access and provide consent to healthcare professionals.
